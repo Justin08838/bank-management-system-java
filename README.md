@@ -28,7 +28,11 @@ This project demonstrates core Object-Oriented Programming (OOP) concepts and si
 
 ## 📂 Project Structure
 
-bank-management-system-java/ ├── README.md └── src/ ├── Main.java └── Account.java
+bank-management-system-java/
+├── README.md
+└── src/
+    ├── Main.java
+    └── Account.java
 
 
 ---
@@ -89,5 +93,7 @@ Convert to a web application using Spring Boot
 
 
 👨‍💻 Author
+
 Mayank Raj Srivastava
+
 GitHub: mrsrivas01
